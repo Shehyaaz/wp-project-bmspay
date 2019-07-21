@@ -1,0 +1,19 @@
+img
+{
+	float: right;
+	width: 30%;
+}
+body
+{ 
+	background-image:url("bms.jpg");
+	background-repeat:no-repeat;
+	background-size:350% 350%;
+	background-color: white;
+}
+table
+{
+	border-collapse: collapse;
+	
+}
+
+
